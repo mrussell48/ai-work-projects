@@ -1,0 +1,17 @@
+
+
+*** Results Summary for CNN Model Architecture RESNET ***
+N Images            :   4
+N Dog Images        :   2
+N Not Dog Images    :   2
+ 
+pct_match           : 50.000000
+pct_correct_dogs    : 100.000000
+pct_correct_breed   : 0.000000
+pct_correct_notdogs : 100.000000
+
+INCORRECT Dog Breed Assignments:
+Labrador_Retriever_001.jpg    : labrador retriever  : beagle              
+labrador_retriever_002.jpg    : labrador retriever  : beagle              
+
+** Total Elapsed Runtime: 0:0:0

@@ -1,0 +1,21 @@
+
+
+*** Results Summary for CNN Model Architecture ALEXNET ***
+N Images            :  40
+N Dog Images        :  30
+N Not Dog Images    :  10
+ 
+pct_match           : 75.000000
+pct_correct_dogs    : 100.000000
+pct_correct_breed   : 80.000000
+pct_correct_notdogs : 100.000000
+
+INCORRECT Dog Breed Assignments:
+Golden_retriever_05182.jpg    : golden retriever    : tibetan mastiff     
+Great_pyrenees_05367.jpg      : great pyrenees      : kuvasz              
+Boston_terrier_02285.jpg      : boston terrier      : basenji             
+Beagle_01170.jpg              : beagle              : walker hound, walker foxhound
+Beagle_01141.jpg              : beagle              : english foxhound    
+Golden_retriever_05257.jpg    : golden retriever    : afghan hound, afghan
+
+** Total Elapsed Runtime: 0:0:3

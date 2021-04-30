@@ -1,0 +1,17 @@
+
+
+*** Results Summary for CNN Model Architecture VGG ***
+N Images            :  40
+N Dog Images        :  30
+N Not Dog Images    :  10
+ 
+pct_match           : 87.500000
+pct_correct_dogs    : 100.000000
+pct_correct_breed   : 93.333333
+pct_correct_notdogs : 100.000000
+
+INCORRECT Dog Breed Assignments:
+Great_pyrenees_05367.jpg      : great pyrenees      : kuvasz              
+Beagle_01170.jpg              : beagle              : walker hound, walker foxhound
+
+** Total Elapsed Runtime: 0:0:34

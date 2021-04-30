@@ -1,0 +1,21 @@
+
+
+*** Results Summary for CNN Model Architecture RESNET ***
+N Images            :  40
+N Dog Images        :  30
+N Not Dog Images    :  10
+ 
+pct_match           : 82.500000
+pct_correct_dogs    : 100.000000
+pct_correct_breed   : 90.000000
+pct_correct_notdogs : 90.000000
+
+INCORRECT Dog/NOT Dog Assignments:
+cat_01.jpg          : cat                 : norwegian elkhound, elkhound
+
+INCORRECT Dog Breed Assignments:
+Golden_retriever_05182.jpg    : golden retriever    : leonberg            
+Great_pyrenees_05367.jpg      : great pyrenees      : kuvasz              
+Beagle_01170.jpg              : beagle              : walker hound, walker foxhound
+
+** Total Elapsed Runtime: 0:0:5

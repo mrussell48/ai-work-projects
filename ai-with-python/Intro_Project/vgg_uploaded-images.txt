@@ -1,0 +1,13 @@
+
+
+*** Results Summary for CNN Model Architecture VGG ***
+N Images            :   4
+N Dog Images        :   2
+N Not Dog Images    :   2
+ 
+pct_match           : 100.000000
+pct_correct_dogs    : 100.000000
+pct_correct_breed   : 100.000000
+pct_correct_notdogs : 100.000000
+
+** Total Elapsed Runtime: 0:0:3
